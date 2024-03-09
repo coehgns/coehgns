@@ -10,6 +10,16 @@
 
 <br>
 
+<h2 align='center'><i>Learning</i></h2>
+
+<div align="left">
+    <ul>
+      <li>Java</li>
+      <li>Spring</li>
+    </ul>   
+
+<br>
+
 <h2 align='center'><i>Languages and Tools</i></h2>
 
 <table width="100">
@@ -23,6 +33,6 @@
     <td align='center' width="190">
           <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </td>
-     <td align='center' width="190">
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-     </td>
+    </td>   
