@@ -4,6 +4,9 @@
 
 Hi, I'm dohun chae, studying back-end.<br>
 I will always do my best to be positive and proactive.
+<br>
+
+<a href="https://solved.ac/profile/coehgns"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=coehgns"/></a>
 <h2 align='center'><i><a href="https://github.com/coehgns/github-readme-activity-graph"></i></h2>
 <p align="center">
 <a href="https://github.com/coehgns/github-readme-activity-graph#gh-light-mode-only">
