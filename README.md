@@ -24,7 +24,7 @@ I will always do my best to be positive and proactive.
 
 <div align="left">
     <ul>
-     <li>Java</li>
+     <li>Kotlin</li>
      <li>Spring Boot</li>
      <li>Algorithms</li>
      <li>Database</li>
