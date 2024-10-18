@@ -26,7 +26,7 @@ I will always do my best to be positive and proactive.
     <ul>
      <li>Kotlin</li>
      <li>Spring Boot</li>
-     <li>Algorithms</li>
+     <li>Docker</li>
      <li>Database</li>
      <li>NetWork</li>
     </ul>   
