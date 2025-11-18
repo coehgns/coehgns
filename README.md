@@ -17,15 +17,3 @@ I will always do my best to be positive and proactive.
 </a>
 </p>
 
-<br>
-
-<h2 align='center'><i>Learning</i></h2>
-
-
-<div align="left">
-    <ul>
-     <li>MSA</li>
-     <li>Spring Boot</li>
-     <li>Database</li>
-     <li>NetWork</li>
-    </ul>   
