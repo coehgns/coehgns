@@ -9,3 +9,5 @@ I will always do my best to be positive and proactive.
 
 ### Contribution
 [**2026-02-03**] | **[spring-security]** | [[PR #18635](https://github.com/spring-projects/spring-security/pull/18635)]
+<br>
+[**2026-02-24**] | **[spring-security]** | [[PR #18721](https://github.com/spring-projects/spring-security/pull/18721)]
